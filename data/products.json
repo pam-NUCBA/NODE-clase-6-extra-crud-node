@@ -1,0 +1,42 @@
+[
+  { "id": 1, "name": "algo", "info": "lorem ipsum", "price": 5282 },
+  { "id": 2, "name": "algo2", "info": "lorem ipsum2", "price": 52 },
+  { "id": 3, "name": "algo3", "info": "lorem ipsum3", "price": 2582 },
+  { "id": 4, "name": "algo4", "info": "lorem ipsum4", "price": 122 },
+  {
+    "id": "8e66d97b-9ef1-4115-b673-e49f064b3466",
+    "name": "algo estático",
+    "info": "lorem ipsum",
+    "price": 5282
+  },
+  {
+    "id": "d1a599f4-e9db-42f3-b7c2-0496a35a955d",
+    "name": "algo estático",
+    "info": "lorem ipsum",
+    "price": 5282
+  },
+  {
+    "id": "28f15770-1e2d-43fd-89b7-d43732c0d0a0",
+    "name": "algo estático",
+    "info": "lorem ipsum",
+    "price": 5282
+  },
+  {
+    "id": "37aec412-41bb-45e2-b12a-b901d4440dca",
+    "name": "algo estático",
+    "info": "lorem ipsum",
+    "price": 5282
+  },
+  {
+    "id": "4c995490-ed1f-49f4-bfc7-5035c7f45eea",
+    "name": "algo dinámico",
+    "info": "lorem ipsum",
+    "price": 5282
+  },
+  {
+    "id": "5bb9f38e-df11-4314-bc26-496836d30c07",
+    "name": "algo dinámico",
+    "info": "lorem ipsum",
+    "price": 5282
+  }
+]
